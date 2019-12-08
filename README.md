@@ -1,5 +1,5 @@
-## python-assistant
-virtual assistant in python
+## Virtual Assistant in Python
+
 
 ## Requirements
 
