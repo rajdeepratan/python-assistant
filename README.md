@@ -1,14 +1,19 @@
-# python-assistant
+## python-assistant
 virtual assistant in python
 
+## Requirements
 
-##Package to install
-1. pip install pyttsx3,
-2. pip install speechRecognition,
-3. pip install wikipedia
+- python and pip
+
+## Installation
+
+- pip install pyttsx3,
+- pip install speechRecognition,
+- pip install wikipedia
 
 
-##To run the assistant
+## To run the assistant
+
 Type: `python assistant.py` in terminal
 
 
